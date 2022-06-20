@@ -1,0 +1,4 @@
+MONGO_URL = mongodb+srv://mongkol:1234@cluster0.ybrye5d.mongodb.net/?retryWrites=true&w=majority
+
+DB_PW = 1234
+//finish
